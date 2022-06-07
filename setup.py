@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="popuchange",
-    version="1.0.0",
+    version="1.0.1",
     author="takuma iwasaki",
-    author_email="taku_2198@yahoo.co.jp",
-    description='A package for visualization of population in japan"',
+    author_email="s2022005@stu.musashino-u.ac.jp",
+    description='A package for visualization of population in tokyo"',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/kuma2198/popuchange",
